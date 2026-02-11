@@ -1,7 +1,3 @@
-# documentation_sample
-Simple test documentation examples: Epic / Story / Test Cycle / Test Cases
-
-
 Spartans Game App — Test Documentation (QA)
 Markdown documentation for the Spartans Game App test project, based on the attached artifacts: Login, Search Bar, and User Balance.
 Table of Contents
